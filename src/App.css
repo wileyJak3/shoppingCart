@@ -1,3 +1,27 @@
+body{
+  background:whitesmoke;
+  color: lightsalmon;
+  font-weight: 500;
+}
+h1{
+color: lightcoral;
+}
+h2{
+  color: red
+}
+
+button{
+  padding-left:2vw ;
+  padding-right:2vw ;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  color: red;
+  border: solid lightcoral;
+  border-radius: 10px;
+  background-color: whitesmoke;
+  
+}
+
 .App {
   text-align: center;
 }
